@@ -2,12 +2,25 @@
 ### signing up
 - sign up for a day by writing your name in an empty spot on the [marvin sign-up sheet linked here](https://docs.google.com/spreadsheets/d/1GWZrbq7F2G0Cmt_wIc5foC2MAJ5p8YOnbqm5ELSGDVY/edit#gid=0)
 - if you will miss any part of the class you signed up for, contact Mr. Smith as soon as you know this will happen so he can put out the call for volunteer replacements
-### pre-class checklist
+### expectations before class
 - familiarize yourself with the types of questions people have been asking by briefly reading all the issues for your language ([scheme](https://github.com/woodstockcs/marvin/labels/scheme)) ([java](https://github.com/woodstockcs/marvin/labels/java)) ([js](https://github.com/woodstockcs/marvin/labels/js)) ([html-css](https://github.com/woodstockcs/marvin/labels/html-css))
 - get up to speed on any open issues for your block ([e](https://github.com/woodstockcs/marvin/labels/block-e)) ([g](https://github.com/woodstockcs/marvin/labels/block-g)) ([h](https://github.com/woodstockcs/marvin/labels/block-h))
 ### expectations during class
-- you are not working on your own projects, even during downtime
-- if you're not supporting someone 
-- background tasks: write test questions, add issues to the wiki, clean up the wiki
-### post-class checklist
-- submit the [post-class checklist linked here](https://docs.google.com/forms/d/e/1FAIpQLScdgpLvzp0M2tQpytgOVt2NJkrFkybrovvsmcm-TODFwGatig/viewform?usp=sf_link)
+- Your first job is to support other students. Stay alert. Look available. Maybe walk around the room to see if anyone flags you down.
+- Your second job is to document the support you gave, so other people can learn from it. This means you are responsible for making sure that every stuck point you help with is represented by an `issue` in github. You can ask C3PO to create the `issue` in github, or you can create it yourself.
+- You are responsible for making sure every `issue` you worked on has:
+  - has a title which is descriptive, and short and sweet
+  - has the correct labels for block and language
+  - has the student-only label if appropriate
+  - starts with a comment which describes the symptoms of the problem
+- When a question is answered, you are responsible for making sure that `issue`:
+  - ends with a comment which describes the solution
+  - is closed if a solution was found
+- You are not responsible for adding the issues you worked on to the wiki. However you can choose to do this as a downtime activity.
+- When you're not supporting other students, you should choose one of the following downtime activities to work on:
+  - add an issue to the wiki (pick an issue which does )not have the `added-to-wiki` label, work to understand it, add its info to the wiki, then give that issue the `added-to-wiki` label
+  - add other useful information to the wiki
+  - tidy the wiki (fix typos, improve formatting, improve clarify, move more common issues to the top, etc)
+  - write good questions in the testbank
+### expectations after class
+- By the start of the next school day, you are responsible for submitting the [Marvin Checklist and Survey linked here](https://docs.google.com/forms/d/e/1FAIpQLScdgpLvzp0M2tQpytgOVt2NJkrFkybrovvsmcm-TODFwGatig/viewform?usp=sf_link).

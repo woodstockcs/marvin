@@ -1,12 +1,16 @@
-# marvin
-### signing up
+# Marvin
+The purpose of the Marvin system is to activate students as resources for each other. It is based on support systems used in professional engineering workplaces.
+
+We will pilot this system for the first Reporting Period (til Sept 29), then assess its effectiveness and make a determination about whether and how it should continue.
+
+### Signing Up
 - Sign up for a day by writing your name in an empty spot on the [marvin sign-up sheet linked here](https://docs.google.com/spreadsheets/d/1GWZrbq7F2G0Cmt_wIc5foC2MAJ5p8YOnbqm5ELSGDVY/edit#gid=0).
 - If you will miss any part of the class you signed up for, contact Mr. Smith as soon as you know this will happen so he can put out the call for volunteer replacements.
-### expectations before class
+### Expectations Before Class
 - Familiarize yourself with the types of questions people have been asking by briefly reading all the issues for your language. ([scheme](https://github.com/woodstockcs/marvin/labels/scheme)) ([java](https://github.com/woodstockcs/marvin/labels/java)) ([js](https://github.com/woodstockcs/marvin/labels/js)) ([html-css](https://github.com/woodstockcs/marvin/labels/html-css))
 - Get up to speed on any open issues for your block. ([e](https://github.com/woodstockcs/marvin/labels/block-e)) ([g](https://github.com/woodstockcs/marvin/labels/block-g)) ([h](https://github.com/woodstockcs/marvin/labels/block-h))
-### expectations during class
-- Your first job is to support other students. Stay alert. Look available. Maybe walk around the room to see if anyone flags you down.
+### Expectations During Class
+- Your first job is to support other students. Keep an eye out for incoming `issue`s. Look available. Maybe walk around the room to see if anyone flags you down.
 - Your second job is to document the support you gave, so other people can learn from it. This means you are responsible for making sure that every stuck point you help with is represented by an `issue` in github. You can ask C3PO to create the `issue` in github, or you can create it yourself.
 - You are responsible for making sure every `issue` you worked on has:
   - has a title which is descriptive, and short and sweet, and
@@ -26,5 +30,5 @@
   - add other useful information to the wiki
   - tidy the wiki (fix typos, improve formatting, improve clarify, move more common issues to the top, etc)
   - write good questions in the testbank
-### expectations after class
+### Expectations After Class
 - By the start of the next school day, you are responsible for submitting the [Marvin Checklist and Survey linked here](https://docs.google.com/forms/d/e/1FAIpQLScdgpLvzp0M2tQpytgOVt2NJkrFkybrovvsmcm-TODFwGatig/viewform?usp=sf_link).

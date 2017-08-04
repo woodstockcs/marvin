@@ -31,4 +31,4 @@ We will pilot this system for the first Reporting Period (til Sept 29), then ass
   - tidy the wiki (fix typos, improve formatting, improve clarify, move more common issues to the top, etc)
   - write good questions in the testbank
 ### Expectations After Class
-- By the start of the next school day, you are responsible for submitting the [Marvin Checklist and Survey linked here](https://docs.google.com/forms/d/e/1FAIpQLScdgpLvzp0M2tQpytgOVt2NJkrFkybrovvsmcm-TODFwGatig/viewform?usp=sf_link).
+- By midnight tonight, you are responsible for tidying up the issues you worked on and giving some feedback. Use the [Marvin Checklist and Survey linked here](https://docs.google.com/forms/d/e/1FAIpQLScdgpLvzp0M2tQpytgOVt2NJkrFkybrovvsmcm-TODFwGatig/viewform?usp=sf_link).

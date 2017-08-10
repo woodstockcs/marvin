@@ -25,10 +25,11 @@ We will pilot this system for the first Reporting Period (til Sept 29), then ass
   - is marked closed.
 - If class ends and there is not solution yet, you are responsible for making sure that the next Marvin will know where to start. This means you should add a comment to any unresolved `issue`s indicating what you've already tried, any ideas about what to try next, and any other relevant comments.
 - You are not responsible for adding the issues you worked on to the wiki. However you can choose to do this as a downtime activity.
-- When you're not supporting other students, you should choose one of the following downtime activities to work on.
-  - add an issue to the wiki (pick an issue which does )not have the `added-to-wiki` label, work to understand it, add its info to the wiki, then give that issue the `added-to-wiki` label
-  - add other useful information to the wiki
+- When you're not supporting other students, you should choose one of the following **downtime activities** to work on.
+  - look for closed issues with the label `flagged for marvin follow up`. read the comments to understand the issue, then do the "follow up" actions mentioned in one of the last comments.
+  - add other information to the wiki that you think would be useful
+  - record a screencast about a common problem or misconception, and add it to the wiki
   - tidy the wiki (fix typos, improve formatting, improve clarify, move more common issues to the top, etc)
-  - write good questions in the testbank
+  - add good questions in the testbank
 ### Expectations After Class
-- By midnight tonight, you are responsible for tidying up the issues you worked on and giving some feedback. Use the [Marvin Checklist and Survey linked here](https://docs.google.com/forms/d/e/1FAIpQLScdgpLvzp0M2tQpytgOVt2NJkrFkybrovvsmcm-TODFwGatig/viewform?usp=sf_link).
+- By midnight tonight, you are responsible for tidying up the issues you worked on and completing the [Marvin Checklist and Survey linked here](https://docs.google.com/forms/d/e/1FAIpQLScdgpLvzp0M2tQpytgOVt2NJkrFkybrovvsmcm-TODFwGatig/viewform?usp=sf_link).
